@@ -36,7 +36,6 @@ Transform your career with the most comprehensive Terraform learning resource av
 terraform-zero-to-hero/
 │
 ├── 📄 terraform-ultimate-guide.pdf           # Complete 300+ page guide
-├── 📦 terraform-practical-examples.zip       # Hands-on code examples
 ├── 📖 README.md                              # This file
 ├── 📜 LICENSE                                # MIT License
 │
