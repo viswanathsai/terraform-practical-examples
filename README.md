@@ -93,9 +93,9 @@ Before you begin, ensure you have:
    cd terraform-zero-to-hero
    ```
 
-2. **Extract the practical examples**
+2. **List the practical examples**
    ```bash
-   unzip terraform-practical-examples.zip
+   ls terraform-practical-examples
    ```
 
 3. **Configure AWS credentials**
@@ -411,8 +411,6 @@ terraform force-unlock LOCK_ID
 # Pull latest changes
 git pull origin main
 
-# Check for updated examples
-unzip -o terraform-practical-examples.zip
 ```
 
 ---
